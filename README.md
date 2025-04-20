@@ -1,6 +1,6 @@
 IPL Match Analysis (Till 2017) - Databricks
 Overview
-This project utilizes Databricks to analyze Indian Premier League (IPL) matches up until the 2017 season. The analysis focuses on exploring match statistics, aggregating key features, and providing insights into match outcomes without using machine learning models. The goal is to understand how various match-related factors, such as runs scored, extras, and player performance, influence match results.
+This project utilizes Apache Spark within  Databricks to analyze Indian Premier League (IPL) matches up until the 2017 season. The analysis focuses on exploring match statistics, aggregating key features, and providing insights into match outcomes without using machine learning models. The goal is to understand how various match-related factors, such as runs scored, extras, and player performance, influence match results.
 
 Key Features:
 Data Preprocessing: Cleaning and structuring IPL match data.
